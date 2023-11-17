@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="starlingbank://oauth?client_id=aT6TPtsTJvhB1wzGbrRp&response_type=code&state=249a34c4-4588-449a-9ad9-f192581e52fd&/path&scope=account-list:read%20confirmation-of-funds:read"
           target="_blank"
           rel="noopener noreferrer"
         >
